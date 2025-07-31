@@ -1,0 +1,64 @@
+iter --> this is used to run in the form of a loop 
+iterator : --> this stores ther data and gives the next data we need
+
+lambda function --> it is used only as a single line code 
+syntax :
+square = lambda x: x * x
+print(square(5))  # Output: 25
+
+
+programing paradigms are divided into two types they are
+imperative and declerative
+imperative is like step by step process that we should do Print all even numbers from 1 to 10
+# for i in range(1, 11):
+#     if i % 2 == 0:
+#         print(i)
+
+# declerative : this is the think which we order food like what do we need 
+# SELECT number FROM numbers_table WHERE number % 2 = 0;
+
+
+
+# again imperative is divided into structural and oops
+# 
+#  
+# structural--> is breaks program into functions and procedures
+# -->data and function are seperated 
+# int add(int a, int b) {
+#     return a + b;
+# }
+
+# int main() {
+#     int result = add(5, 3);
+#     printf("%d", result);
+#     return 0;
+#}
+# oop-->break ststment into class and objects
+# data and finction are cobined
+# class Calculator {
+#   public:
+#     int add(int a, int b) {
+#         return a + b;
+#     }
+# };
+
+# int main() {
+#     Calculator c;
+#     cout << c.add(5, 3);
+#     return 0;
+# }
+
+functiona dn logical
+
+structure and union 
+structure have diffrennt memory and union have all one emory , equal to the maximum size
+
+, 
+
+ADT : Abrstract data type this is done but we dont know interior working details 
+focous on what is done but not focoused on whag it is done 
+
+linklist:it stores data in the form of nodes example:
+[10|1200]-->[20|2330]--->[30|23455]
+
+

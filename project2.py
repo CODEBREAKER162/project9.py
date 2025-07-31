@@ -1,0 +1,11 @@
+print("Welcome to Frutystop shop")
+Fruit_name = input("Enter the name of fruit:")
+Price = float(input("Enter the price of fruit: ₹"))
+Wheight =float(input("Enter the wheight of fruit in kgs :"))
+Discount = float(input("How much is the discount for fruit"))
+Total_Bill = Price*Wheight/Discount*100
+print("Ypur bill")
+print("Fruit name",Fruit_name)
+print("cost ₹",Price)
+print("Wheight kg",Wheight)
+print("Total to be payed",Total_Bill)
